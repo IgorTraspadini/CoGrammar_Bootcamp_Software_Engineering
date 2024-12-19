@@ -4,7 +4,6 @@
 
 
 # Variables
-print("########################################### Holiday Summary ###########################################")
 city_flight = input("Please, inform the name of the city you will be flying to: ")
 num_nights = int(input("The number of nights you'll staying at a hotel: "))
 rental_days = int(input("The number of days for which you'll hiring a car: "))
